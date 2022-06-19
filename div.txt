@@ -1,0 +1,28 @@
+192.168.1.2 ngfts.lge.com
+192.168.1.2 *.ad.lgsmartad.com
+192.168.1.2 lgad.cjpowercast.com
+192.168.1.2 edgesuite.net 
+192.168.1.2 *.info.lgsmartad.com
+192.168.1.2 ad.lgappstv.com
+192.168.1.2 smartclip.com
+192.168.1.2 smartclip.net
+192.168.1.2 smartshare.lgtvsdp.com
+192.168.1.2 us.ibs.lgappstv.com
+192.168.1.2 *.ibs.lgappstv.com
+192.168.1.2 us.lgtvdp.com
+192.168.1.2 *.lgtvdp.com
+192.168.1.2 us.rdx2.lgtvsdp.com
+192.168.1.2 *.rdx2.lgtvsdp.com
+192.168.1.2 yumenetworks.com
+192.168.1.2 aic-ngfts.lge.com
+192.168.1.2 # voice search disable
+192.168.1.2 fm.nvc.enus.nuancemobility.net
+192.168.1.2 fx.nvc.enus.nuancemobility.net
+192.168.1.2 lgtvonline.lge.com
+192.168.1.2 # lg webos auto update disable
+192.168.1.2 snu.lge.com
+192.168.1.2 su.lge.com
+192.168.1.2 lge.com
+192.168.1.2 # roku
+192.168.1.2 logs.roku.com
+192.168.1.2 *.logs.roku.com
